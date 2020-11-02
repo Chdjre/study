@@ -13,7 +13,6 @@ dependencies:
     - PyMySQL
     - certifi
     - cffi
-    - cryptograph
     - cycler
     - jieba
     - joblib
